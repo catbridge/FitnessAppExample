@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FitnessAnimeApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="road_to_the_dream">Road to the dream</string>
+    <string name="day">Day </string>
+    <string name="exercises">"Number of exercises: "</string>
+    <string name="prepare_to_start">Start in:</string>
+    <string name="start">Start</string>
+    <string name="next">NEXT</string>
+    <string name="good_job">God Job! This is the last one!</string>
+    <string name="next_is">"Next - "</string>
+    <string name="seconds">" seconds"</string>
+    <string name="times">" times"</string>
+    <string name="finish">Finish</string>
+    <string name="well_done">Well Done!</string>
+    <string name="exerciseList">Exercise List</string>
+    <string name="dayList">Day List</string>
+    <string name="prepare">Get ready</string>
+    <string name="rest_days">days left</string>
+    <string name="reset">reset progress</string>
+    <string name="info">FAQ</string>
+    <string name="text_info">Some info</string>
+    <string name="attention">Attention</string>
+    <string name="neg_btn">No</string>
+    <string name="pos_btn">Yes</string>
+    <string name="reset_all_message">Are you sure you want to reset all progress?</string>
+    <string name="reset_day_message">Are you sure you want to reset this day\'s progress and retry this Day?</string>
+
+</resources>

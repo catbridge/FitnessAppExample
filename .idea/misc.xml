@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/FitnessAnimeApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FitnessAnimeApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FitnessAnimeApp/app/src/main/res/drawable/ic_spalsh.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FitnessAnimeApp/app/src/main/res/drawable/splash_image.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/FitnessAnimeApp/app/src/main/res/drawable/splash_screen_icon.xml" value="0.141" />
+        <entry key="..\:/AndroidStudioProjects/FitnessAnimeApp/app/src/main/res/layout-v28/days_list_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/FitnessAnimeApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/FitnessAnimeApp/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/FitnessAnimeApp/app/src/main/res/layout/days_list_item.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/FitnessAnimeApp/app/src/main/res/layout/exercise_list_item.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/FitnessAnimeApp/app/src/main/res/layout/fragment_day_finish.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/FitnessAnimeApp/app/src/main/res/layout/fragment_days.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/FitnessAnimeApp/app/src/main/res/layout/fragment_exercise.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/FitnessAnimeApp/app/src/main/res/layout/fragment_exercise_list.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/FitnessAnimeApp/app/src/main/res/layout/waiting_fragment.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/FitnessAnimeApp/app/src/main/res/menu/main_menu.xml" value="0.15092592592592594" />
+        <entry key="..\:/AndroidStudioProjects/FitnessAnimeApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.198" />
+        <entry key="..\:/AndroidStudioProjects/FitnessAnimeApp/app/src/main/res/mipmap-anydpi-v26/ic_splash.xml" value="0.198" />
+        <entry key="..\:/AndroidStudioProjects/FitnessAnimeApp/app/src/main/res/mipmap-anydpi-v26/ic_splash_round.xml" value="0.198" />
+        <entry key="..\:/AndroidStudioProjects/FitnessAnimeApp/app/src/main/res/xml/asd.xml" value="0.275" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

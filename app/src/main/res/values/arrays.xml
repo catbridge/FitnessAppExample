@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exercises">
+        <item>Warmup|35|warm-up.gif</item> <!-- 0 -->
+        <item>Break|30|relax.gif</item> <!-- 1 -->
+        <item>Push-ups|x15|push-up.gif</item> <!-- 2 -->
+        <item>Wide push-ups|x15|wide_push-ups.gif</item> <!-- 3 -->
+        <item>Squats|x20|squats.gif</item> <!-- 4 -->
+        <item>Jumping Squats|x12|jumping_squats.gif</item> <!-- 5 -->
+        <item>Divebomber push-ups|x12|divebomber_push-ups.gif</item> <!-- 6 -->
+        <item>Chair Dips|x20|chair_dips.gif</item> <!-- 7 -->
+        <item>Lying leg raises|x12|lying_leg_raises.gif</item> <!-- 8 -->
+        <item>Plank|40|plank.jpg</item> <!-- 9 -->
+        <item>Sit ups|30|Sit-ups.gif</item> <!-- 10 -->
+        <item>Crunches|x20|crunches.gif</item> <!-- 11 -->
+    </string-array>
+
+    <!-- Test version. Need to update an exercise list -->
+    <string-array name="days">
+        <item>0,2,1,3,1,6,1,7,1,9,1,9 </item> <!-- Day 1 -->
+        <item>0,4,1,5,1,8,1,10,1,4,1,9</item> <!-- Day 2 -->
+        <item>0,3,1,8,1,4,1,7,1,2</item> <!-- Day 3 -->
+        <item>0,3,1,8,1,4,1,7,1,2</item> <!-- Day 4 -->
+        <item>0,3,1,8,1,4,1,7,1,2</item> <!-- Day 5 -->
+        <item>0,3,1,8,1,4,1,7,1,2</item> <!-- Day 6 -->
+        <item>0,3,1,8,1,4,1,7,1,2</item> <!-- Day 7 -->
+        <item>0,3,1,8,1,4,1,7,1,2</item> <!-- Day 8 -->
+        <item>0,3,1,8,1,4,1,7,1,2</item> <!-- Day 9 -->
+        <item>0,3,1,8,1,4,1,7,1,2</item> <!-- Day 10 -->
+        <item>0,3,1,8,1,4,1,7,1,2</item> <!-- Day 11 -->
+        <item>0,3,1,8,1,4,1,7,1,2</item> <!-- Day 12 -->
+        <item>0,3,1,8,1,4,1,7,1,2</item> <!-- Day 13 -->
+        <item>0,3,1,8,1,4,1,7,1,2</item> <!-- Day 14 -->
+    </string-array>
+
+</resources>

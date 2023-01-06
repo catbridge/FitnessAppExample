@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipToPadding="true"
+    android:background="?attr/colorButtonNormal"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_marginTop="28dp"
+        android:padding="6dp"
+        android:id="@+id/txtFinish"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/well_done"
+        android:textAllCaps="true"
+        android:textColor="@color/dark_red"
+        android:textSize="54sp"
+        android:textStyle="bold"
+        android:fontFamily="monospace"
+        android:shadowColor="@color/design_default_color_error"
+        android:shadowDx="1.5"
+        android:shadowDy="1.3"
+        android:shadowRadius="0.5"
+        app:layout_constraintTop_toTopOf="@id/imgFinish"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <ImageView
+        android:id="@+id/imgFinish"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <Button
+        android:id="@+id/btn_finish"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/finish"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/imgFinish"
+        app:layout_constraintStart_toStartOf="@+id/imgFinish" />
+</androidx.constraintlayout.widget.ConstraintLayout>
